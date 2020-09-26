@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning
   - Ruby on Rails
   - Rust
+  - Alloy
+
 - 💬 Ask me about ...
   - Java/Kotlin
   - Postgres
