@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning
+  - Ruby on Rails
+  - Rust
+- 💬 Ask me about ...
+  - Java/Kotlin
+  - Postgres
+  - Solr & Elasticsearch
+  - ArangoDB
+  - Nginx & Openresty
+  - Linux
+
 <!--
 **rrampage/rrampage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
