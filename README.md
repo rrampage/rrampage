@@ -1,17 +1,26 @@
-### Hi there 👋
+### About me
 
-- 🌱 I’m currently learning
+I blog occasionally [here](https://dev.to/rrampage) on Linux, Bash, CLI tools and other (mostly technical) topics.
+
+- 🌱 Currently learning
   - Ruby on Rails
   - Rust
   - Alloy
 
 - 💬 Ask me about ...
-  - Java/Kotlin
+  - Java/Kotlin, JOOQ, Dropwizard
   - Postgres
   - Solr & Elasticsearch
   - ArangoDB
   - Nginx & Openresty
+  - Bash, sed, awk, jq
   - Linux
+
+- 📫 How to reach me:
+  - Github issues on [this repo](https://github.com/rrampage/rrampage/issues)
+  - My DMs are open on [dev.to](https://dev.to/rrampage)
+  - Email. Be clear in your subject.
+  - [LinkedIn](https://in.linkedin.com/in/raunak1)
 
 <!--
 **rrampage/rrampage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
