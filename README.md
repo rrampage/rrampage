@@ -4,6 +4,7 @@ I blog occasionally [here](https://dev.to/rrampage) on Linux, Bash, CLI tools an
 
 - 🌱 Currently learning
   - Ruby on Rails
+  - Ragel
   - Rust
   - Alloy
 
@@ -13,8 +14,9 @@ I blog occasionally [here](https://dev.to/rrampage) on Linux, Bash, CLI tools an
   - Solr & Elasticsearch
   - ArangoDB
   - Nginx & Openresty
-  - Bash, sed, awk, jq
+  - Bash, sed, awk, GNU Make, jq
   - Linux
+  - State machines, Regexes, State charts
 
 - 📫 How to reach me:
   - Github issues on [this repo](https://github.com/rrampage/rrampage/issues)
