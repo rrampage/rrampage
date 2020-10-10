@@ -1,7 +1,6 @@
 ### About me
 - I work on mostly backend stuff
-- [![DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/rrampage)
-  - I blog occasionally about Linux, Bash, CLI tools and other (mostly technical) topics.
+- I blog [here](https://dev.to/rrampage) occasionally about Linux, Bash, CLI tools and other (mostly technical) topics.
 
 - 🌱 Currently learning
   - Ruby on Rails
