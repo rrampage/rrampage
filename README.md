@@ -1,6 +1,7 @@
 ### About me
-
-I blog occasionally [here](https://dev.to/rrampage) on Linux, Bash, CLI tools and other (mostly technical) topics.
+- I work on mostly backend stuff
+- [![DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/rrampage)
+  - I blog occasionally about Linux, Bash, CLI tools and other (mostly technical) topics.
 
 - 🌱 Currently learning
   - Ruby on Rails
@@ -23,7 +24,6 @@ I blog occasionally [here](https://dev.to/rrampage) on Linux, Bash, CLI tools an
   - My DMs are open on [dev.to](https://dev.to/rrampage)
   - Email. Be clear in your subject.
   - [LinkedIn](https://in.linkedin.com/in/raunak1)
-
 <!--
 **rrampage/rrampage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
