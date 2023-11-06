@@ -3,7 +3,6 @@
 - I blog [here](https://dev.to/rrampage) occasionally about Linux, Bash, CLI tools and other (mostly technical) topics.
 
 - 🌱 Currently learning
-  - Ruby on Rails
   - Ragel
   - Rust
   - Alloy
@@ -20,7 +19,6 @@
 
 - 📫 How to reach me:
   - Github issues on [this repo](https://github.com/rrampage/rrampage/issues)
-  - My DMs are open on [dev.to](https://dev.to/rrampage)
   - Email. Be clear in your subject.
   - [LinkedIn](https://in.linkedin.com/in/raunak1)
 <!--
