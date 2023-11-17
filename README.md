@@ -1,9 +1,8 @@
 ### About me
 - I work on mostly backend stuff
-- I blog [here](https://dev.to/rrampage) occasionally about Linux, Bash, CLI tools and other (mostly technical) topics.
+- I blog [here](https://rrampage.github.io/) about Linux, Bash, CLI tools and other (mostly technical) topics.
 
 - 🌱 Currently learning
-  - Ragel
   - Rust
   - Alloy
 
@@ -18,7 +17,6 @@
   - State machines, Regexes, State charts
 
 - 📫 How to reach me:
-  - Github issues on [this repo](https://github.com/rrampage/rrampage/issues)
   - Email. Be clear in your subject.
   - [LinkedIn](https://in.linkedin.com/in/raunak1)
 <!--
