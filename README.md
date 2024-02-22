@@ -4,20 +4,23 @@
 
 - 🌱 Currently learning
   - Rust
-  - Alloy
+  - WebAssembly
 
 - 💬 Ask me about ...
-  - Java/Kotlin, JOOQ, Dropwizard
-  - Postgres
+  - Java/Kotlin/Scala
+  - Postgres, MySQL, Sqlite
   - Solr & Elasticsearch
   - ArangoDB
   - Nginx & Openresty
   - Bash, sed, awk, GNU Make, jq
+  - WebAssembly
+  - WebRTC
+  - Docker and Kubernetes
   - Linux
   - State machines, Regexes, State charts
 
 - 📫 How to reach me:
-  - Email. Be clear in your subject.
+  - Email.
   - [LinkedIn](https://in.linkedin.com/in/raunak1)
 <!--
 **rrampage/rrampage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
