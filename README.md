@@ -1,16 +1,16 @@
 ### About me
 - I work on mostly backend stuff
-- I blog [here](https://rrampage.github.io/) about Linux, Bash, CLI tools and other (mostly technical) topics.
+- I blog [here](https://blog.functor.in/) about Linux, Bash, CLI tools and other (mostly technical) topics.
 
 - 🌱 Currently learning
   - Rust
-  - WebAssembly
+  - Zig
+  - ARM64 Assembly
 
 - 💬 Ask me about ...
+  - ARM64 assembly 
   - Java/Kotlin/Scala
-  - Postgres, MySQL, Sqlite
-  - Solr & Elasticsearch
-  - ArangoDB
+  - Databases
   - Nginx & Openresty
   - Bash, sed, awk, GNU Make, jq
   - WebAssembly
@@ -20,7 +20,7 @@
   - State machines, Regexes, State charts
 
 - 📫 How to reach me:
-  - Email.
+  - Email
   - [LinkedIn](https://in.linkedin.com/in/raunak1)
 <!--
 **rrampage/rrampage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
